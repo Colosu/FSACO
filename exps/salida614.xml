@@ -1,0 +1,2735 @@
+<xml version="1.0" encoding="UTF-8">
+	<excludes feature_1="F491" feature_2="F14">
+	<requires feature_1="F362" feature_2="F250">
+	<requires feature_1="F600" feature_2="F18">
+	<requires feature_1="F387" feature_2="F348">
+	<excludes feature_1="F217" feature_2="F156">
+	<requires feature_1="F98" feature_2="F171">
+	<excludes feature_1="F336" feature_2="F332">
+	<excludes feature_1="F483" feature_2="F118">
+	<requires feature_1="F253" feature_2="F301">
+	<excludes feature_1="F611" feature_2="F209">
+	<requires feature_1="F270" feature_2="F21">
+	<excludes feature_1="F475" feature_2="F191">
+	<excludes feature_1="F600" feature_2="F176">
+	<excludes feature_1="F202" feature_2="F328">
+	<excludes feature_1="F504" feature_2="F280">
+	<excludes feature_1="F361" feature_2="F101">
+	<excludes feature_1="F205" feature_2="F397">
+	<requires feature_1="F155" feature_2="F182">
+	<excludes feature_1="F558" feature_2="F411">
+	<excludes feature_1="F142" feature_2="F229">
+	<excludes feature_1="F162" feature_2="F303">
+	<excludes feature_1="F571" feature_2="F259">
+	<excludes feature_1="F256" feature_2="F535">
+	<requires feature_1="F483" feature_2="F560">
+	<requires feature_1="F156" feature_2="F582">
+	<excludes feature_1="F569" feature_2="F114">
+	<requires feature_1="F352" feature_2="F7">
+	<requires feature_1="F385" feature_2="F151">
+	<excludes feature_1="F134" feature_2="F515">
+	<excludes feature_1="F310" feature_2="F465">
+	<requires feature_1="F240" feature_2="F39">
+	<excludes feature_1="F241" feature_2="F17">
+	<requires feature_1="F336" feature_2="F58">
+	<excludes feature_1="F210" feature_2="F141">
+	<excludes feature_1="F482" feature_2="F571">
+	<excludes feature_1="F562" feature_2="F288">
+	<requires feature_1="F113" feature_2="F130">
+	<excludes feature_1="F409" feature_2="F354">
+	<excludes feature_1="F279" feature_2="F162">
+	<requires feature_1="F180" feature_2="F283">
+	<excludes feature_1="F468" feature_2="F48">
+	<excludes feature_1="F494" feature_2="F467">
+	<requires feature_1="F5" feature_2="F419">
+	<excludes feature_1="F102" feature_2="F173">
+	<excludes feature_1="F514" feature_2="F394">
+	<requires feature_1="F98" feature_2="F348">
+	<excludes feature_1="F228" feature_2="F242">
+	<requires feature_1="F124" feature_2="F297">
+	<requires feature_1="F456" feature_2="F190">
+	<excludes feature_1="F33" feature_2="F89">
+	<requires feature_1="F276" feature_2="F491">
+	<excludes feature_1="F17" feature_2="F249">
+	<requires feature_1="F490" feature_2="F329">
+	<excludes feature_1="F431" feature_2="F65">
+	<requires feature_1="F136" feature_2="F588">
+	<excludes feature_1="F51" feature_2="F358">
+	<requires feature_1="F510" feature_2="F502">
+	<excludes feature_1="F491" feature_2="F261">
+	<requires feature_1="F550" feature_2="F194">
+	<excludes feature_1="F589" feature_2="F348">
+	<requires feature_1="F525" feature_2="F70">
+	<excludes feature_1="F350" feature_2="F546">
+	<requires feature_1="F495" feature_2="F167">
+	<requires feature_1="F85" feature_2="F474">
+	<requires feature_1="F415" feature_2="F414">
+	<requires feature_1="F325" feature_2="F401">
+	<requires feature_1="F314" feature_2="F288">
+	<excludes feature_1="F160" feature_2="F456">
+	<excludes feature_1="F81" feature_2="F158">
+	<excludes feature_1="F140" feature_2="F148">
+	<excludes feature_1="F65" feature_2="F475">
+	<excludes feature_1="F311" feature_2="F501">
+	<requires feature_1="F145" feature_2="F31">
+	<requires feature_1="F154" feature_2="F435">
+	<excludes feature_1="F579" feature_2="F156">
+	<excludes feature_1="F609" feature_2="F287">
+	<requires feature_1="F364" feature_2="F269">
+	<excludes feature_1="F85" feature_2="F489">
+	<excludes feature_1="F237" feature_2="F560">
+	<excludes feature_1="F465" feature_2="F261">
+	<requires feature_1="F345" feature_2="F264">
+	<requires feature_1="F317" feature_2="F417">
+	<excludes feature_1="F553" feature_2="F260">
+	<excludes feature_1="F520" feature_2="F586">
+	<excludes feature_1="F301" feature_2="F410">
+	<excludes feature_1="F265" feature_2="F283">
+	<excludes feature_1="F46" feature_2="F472">
+	<excludes feature_1="F277" feature_2="F610">
+	<requires feature_1="F332" feature_2="F188">
+	<requires feature_1="F148" feature_2="F327">
+	<requires feature_1="F547" feature_2="F401">
+	<requires feature_1="F403" feature_2="F476">
+	<requires feature_1="F564" feature_2="F140">
+	<excludes feature_1="F601" feature_2="F242">
+	<requires feature_1="F337" feature_2="F448">
+	<requires feature_1="F374" feature_2="F360">
+	<excludes feature_1="F429" feature_2="F526">
+	<requires feature_1="F532" feature_2="F267">
+	<requires feature_1="F373" feature_2="F507">
+	<requires feature_1="F578" feature_2="F255">
+	<excludes feature_1="F522" feature_2="F336">
+	<requires feature_1="F91" feature_2="F365">
+	<requires feature_1="F54" feature_2="F120">
+	<requires feature_1="F121" feature_2="F490">
+	<requires feature_1="F502" feature_2="F254">
+	<requires feature_1="F43" feature_2="F29">
+	<requires feature_1="F66" feature_2="F516">
+	<requires feature_1="F228" feature_2="F272">
+	<excludes feature_1="F545" feature_2="F386">
+	<excludes feature_1="F391" feature_2="F458">
+	<excludes feature_1="F49" feature_2="F139">
+	<excludes feature_1="F156" feature_2="F164">
+	<requires feature_1="F245" feature_2="F227">
+	<requires feature_1="F413" feature_2="F123">
+	<requires feature_1="F134" feature_2="F593">
+	<requires feature_1="F558" feature_2="F75">
+	<requires feature_1="F40" feature_2="F10">
+	<requires feature_1="F265" feature_2="F89">
+	<requires feature_1="F582" feature_2="F291">
+	<excludes feature_1="F576" feature_2="F456">
+	<requires feature_1="F70" feature_2="F303">
+	<excludes feature_1="F584" feature_2="F372">
+	<requires feature_1="F533" feature_2="F214">
+	<excludes feature_1="F248" feature_2="F260">
+	<excludes feature_1="F292" feature_2="F574">
+	<requires feature_1="F319" feature_2="F296">
+	<requires feature_1="F287" feature_2="F52">
+	<excludes feature_1="F562" feature_2="F480">
+	<requires feature_1="F491" feature_2="F367">
+	<requires feature_1="F105" feature_2="F474">
+	<excludes feature_1="F453" feature_2="F308">
+	<excludes feature_1="F63" feature_2="F343">
+	<requires feature_1="F4" feature_2="F123">
+	<requires feature_1="F85" feature_2="F276">
+	<requires feature_1="F444" feature_2="F571">
+	<requires feature_1="F445" feature_2="F72">
+	<requires feature_1="F408" feature_2="F371">
+	<excludes feature_1="F393" feature_2="F268">
+	<excludes feature_1="F128" feature_2="F164">
+	<requires feature_1="F532" feature_2="F342">
+	<excludes feature_1="F40" feature_2="F161">
+	<requires feature_1="F494" feature_2="F234">
+	<excludes feature_1="F80" feature_2="F42">
+	<excludes feature_1="F365" feature_2="F408">
+	<requires feature_1="F38" feature_2="F436">
+	<requires feature_1="F185" feature_2="F193">
+	<requires feature_1="F446" feature_2="F7">
+	<requires feature_1="F86" feature_2="F577">
+	<excludes feature_1="F274" feature_2="F543">
+	<requires feature_1="F223" feature_2="F556">
+	<requires feature_1="F591" feature_2="F321">
+	<excludes feature_1="F142" feature_2="F544">
+	<excludes feature_1="F378" feature_2="F374">
+	<requires feature_1="F361" feature_2="F267">
+	<requires feature_1="F184" feature_2="F553">
+	<requires feature_1="F85" feature_2="F556">
+	<excludes feature_1="F274" feature_2="F295">
+	<requires feature_1="F488" feature_2="F473">
+	<requires feature_1="F530" feature_2="F554">
+	<excludes feature_1="F309" feature_2="F532">
+	<requires feature_1="F427" feature_2="F602">
+	<excludes feature_1="F587" feature_2="F431">
+	<requires feature_1="F576" feature_2="F261">
+	<requires feature_1="F467" feature_2="F560">
+	<requires feature_1="F240" feature_2="F546">
+	<requires feature_1="F177" feature_2="F243">
+	<requires feature_1="F309" feature_2="F595">
+	<requires feature_1="F265" feature_2="F177">
+	<requires feature_1="F498" feature_2="F123">
+	<requires feature_1="F515" feature_2="F334">
+	<requires feature_1="F360" feature_2="F580">
+	<excludes feature_1="F2" feature_2="F96">
+	<requires feature_1="F39" feature_2="F87">
+	<excludes feature_1="F22" feature_2="F268">
+	<excludes feature_1="F202" feature_2="F438">
+	<excludes feature_1="F346" feature_2="F388">
+	<requires feature_1="F550" feature_2="F258">
+	<requires feature_1="F293" feature_2="F181">
+	<requires feature_1="F45" feature_2="F289">
+	<requires feature_1="F122" feature_2="F218">
+	<requires feature_1="F62" feature_2="F443">
+	<requires feature_1="F61" feature_2="F234">
+	<requires feature_1="F142" feature_2="F304">
+	<excludes feature_1="F26" feature_2="F78">
+	<paralel>
+	<mandatory_feature name="F1">2
+<paralel>
+		<mandatory_feature name="F2">2
+<paralel>
+			<optional_feature name="F125">1
+<paralel>
+				<optional_feature name="F149">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<mandatory_feature name="F150">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<optional_feature name="F151">1
+<paralel>
+					<optional_feature name="F563">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<mandatory_feature name="F564">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<choose_1>
+						<mandatory_feature name="F565">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F566">
+						<checkmark></checkmark>
+						</mandatory_feature>
+					</choose_1>
+</paralel>
+				</optional_feature>
+				<optional_feature name="F152">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<choose_1>
+					<mandatory_feature name="F153">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F154">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+</paralel>
+			</optional_feature>
+			<optional_feature name="F126">1
+			<checkmark></checkmark>
+			</optional_feature>
+			<mandatory_feature name="F127">2
+			<checkmark></checkmark>
+			</mandatory_feature>
+			<optional_feature name="F128">1
+<paralel>
+				<optional_feature name="F155">1
+				<checkmark></checkmark>
+				</optional_feature>
+</paralel>
+			</optional_feature>
+			<mandatory_feature name="F129">2
+			<checkmark></checkmark>
+			</mandatory_feature>
+			<choose_1>
+				<mandatory_feature name="F130">
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F131">
+				<checkmark></checkmark>
+				</mandatory_feature>
+			</choose_1>
+			<choose_1>
+				<mandatory_feature name="F132">
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F133">
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F134">
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F135">
+				<paralel>
+					<optional_feature name="F517">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<optional_feature name="F518">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<mandatory_feature name="F519">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<optional_feature name="F520">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<mandatory_feature name="F521">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F522">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F523">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<choose_1>
+						<mandatory_feature name="F524">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F525">
+						<checkmark></checkmark>
+						</mandatory_feature>
+					</choose_1>
+					<choose_1>
+						<mandatory_feature name="F526">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F527">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F528">
+						<checkmark></checkmark>
+						</mandatory_feature>
+					</choose_1>
+				</paralel>
+				</mandatory_feature>
+			</choose_1>
+</paralel>
+		</mandatory_feature>
+		<optional_feature name="F3">1
+<paralel>
+			<mandatory_feature name="F11">2
+<paralel>
+				<mandatory_feature name="F20">2
+<paralel>
+					<optional_feature name="F76">1
+<paralel>
+						<mandatory_feature name="F186">2
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<optional_feature name="F187">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<optional_feature name="F188">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<optional_feature name="F189">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<mandatory_feature name="F190">2
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<optional_feature name="F191">1
+<paralel>
+							<mandatory_feature name="F456">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F457">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F458">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F459">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F460">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F461">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F462">1
+							<checkmark></checkmark>
+							</optional_feature>
+</paralel>
+						</optional_feature>
+						<choose_1>
+							<mandatory_feature name="F192">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F193">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F194">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F195">
+							<paralel>
+								<optional_feature name="F296">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<choose_1>
+									<mandatory_feature name="F297">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F298">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F299">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+							<mandatory_feature name="F196">
+							<paralel>
+								<optional_feature name="F537">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<mandatory_feature name="F538">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F539">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F540">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F541">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F542">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F543">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<choose_1>
+									<mandatory_feature name="F544">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F545">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+						</choose_1>
+</paralel>
+					</optional_feature>
+					<optional_feature name="F77">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<optional_feature name="F78">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<optional_feature name="F79">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<choose_1>
+						<mandatory_feature name="F80">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F81">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F82">
+						<paralel>
+							<mandatory_feature name="F95">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F96">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F97">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F98">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F99">1
+<paralel>
+								<mandatory_feature name="F176">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<choose_1>
+									<mandatory_feature name="F177">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F178">
+									<paralel>
+										<optional_feature name="F406">1
+										<checkmark></checkmark>
+										</optional_feature>
+										<mandatory_feature name="F407">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F408">2
+<paralel>
+											<mandatory_feature name="F465">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+</paralel>
+										</mandatory_feature>
+										<optional_feature name="F409">1
+										<checkmark></checkmark>
+										</optional_feature>
+										<mandatory_feature name="F410">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<choose_1>
+											<mandatory_feature name="F411">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F412">
+											<checkmark></checkmark>
+											</mandatory_feature>
+										</choose_1>
+										<choose_1>
+											<mandatory_feature name="F413">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F414">
+											<checkmark></checkmark>
+											</mandatory_feature>
+										</choose_1>
+										<choose_1>
+											<mandatory_feature name="F415">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F416">
+											<checkmark></checkmark>
+											</mandatory_feature>
+										</choose_1>
+									</paralel>
+									</mandatory_feature>
+								</choose_1>
+</paralel>
+							</optional_feature>
+							<optional_feature name="F100">1
+<paralel>
+								<optional_feature name="F179">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<optional_feature name="F180">1
+								<checkmark></checkmark>
+								</optional_feature>
+</paralel>
+							</optional_feature>
+							<choose_1>
+								<mandatory_feature name="F101">
+								<paralel>
+									<mandatory_feature name="F253">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<optional_feature name="F254">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<optional_feature name="F255">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<optional_feature name="F256">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<choose_1>
+										<mandatory_feature name="F257">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F258">
+										<paralel>
+											<choose_1>
+												<mandatory_feature name="F532">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F533">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F534">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+										</paralel>
+										</mandatory_feature>
+									</choose_1>
+									<choose_1>
+										<mandatory_feature name="F259">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F260">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F261">
+										<paralel>
+											<choose_1>
+												<mandatory_feature name="F369">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F370">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F371">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+										</paralel>
+										</mandatory_feature>
+										<mandatory_feature name="F262">
+										<paralel>
+											<optional_feature name="F481">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<mandatory_feature name="F482">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<choose_1>
+												<mandatory_feature name="F483">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F484">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+											<choose_1>
+												<mandatory_feature name="F485">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F486">
+												<paralel>
+													<optional_feature name="F487">1
+													<checkmark></checkmark>
+													</optional_feature>
+													<mandatory_feature name="F488">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F489">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<choose_1>
+														<mandatory_feature name="F490">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F491">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F492">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F493">
+														<checkmark></checkmark>
+														</mandatory_feature>
+													</choose_1>
+												</paralel>
+												</mandatory_feature>
+											</choose_1>
+										</paralel>
+										</mandatory_feature>
+										<mandatory_feature name="F263">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+								</paralel>
+								</mandatory_feature>
+								<mandatory_feature name="F102">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F103">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F104">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F105">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+						</paralel>
+						</mandatory_feature>
+					</choose_1>
+</paralel>
+				</mandatory_feature>
+				<mandatory_feature name="F21">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F22">2
+<paralel>
+					<mandatory_feature name="F106">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<optional_feature name="F107">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<choose_1>
+						<mandatory_feature name="F108">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F109">
+						<checkmark></checkmark>
+						</mandatory_feature>
+					</choose_1>
+</paralel>
+				</mandatory_feature>
+				<optional_feature name="F23">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<mandatory_feature name="F24">2
+<paralel>
+					<mandatory_feature name="F265">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<optional_feature name="F266">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<mandatory_feature name="F267">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<optional_feature name="F268">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<mandatory_feature name="F269">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F270">2
+<paralel>
+						<optional_feature name="F405">1
+						<checkmark></checkmark>
+						</optional_feature>
+</paralel>
+					</mandatory_feature>
+					<choose_1>
+						<mandatory_feature name="F271">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F272">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F273">
+						<paralel>
+							<choose_1>
+								<mandatory_feature name="F444">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F445">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+							<choose_1>
+								<mandatory_feature name="F446">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F447">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+						</paralel>
+						</mandatory_feature>
+					</choose_1>
+</paralel>
+				</mandatory_feature>
+				<optional_feature name="F25">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<choose_1>
+					<mandatory_feature name="F26">
+					<paralel>
+						<mandatory_feature name="F423">2
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<optional_feature name="F424">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<optional_feature name="F425">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<choose_1>
+							<mandatory_feature name="F426">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F427">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F428">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F429">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F430">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F431">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+					</paralel>
+					</mandatory_feature>
+					<mandatory_feature name="F27">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+				<choose_1>
+					<mandatory_feature name="F28">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F29">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+</paralel>
+			</mandatory_feature>
+			<optional_feature name="F12">1
+			<checkmark></checkmark>
+			</optional_feature>
+			<optional_feature name="F13">1
+			<checkmark></checkmark>
+			</optional_feature>
+			<optional_feature name="F14">1
+<paralel>
+				<mandatory_feature name="F274">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F275">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<optional_feature name="F276">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<mandatory_feature name="F277">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<choose_1>
+					<mandatory_feature name="F278">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F279">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+				<choose_1>
+					<mandatory_feature name="F280">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F281">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+</paralel>
+			</optional_feature>
+			<choose_1>
+				<mandatory_feature name="F15">
+				<paralel>
+					<optional_feature name="F41">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<optional_feature name="F42">1
+					<checkmark></checkmark>
+					</optional_feature>
+					<mandatory_feature name="F43">2
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F44">2
+<paralel>
+						<optional_feature name="F201">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<optional_feature name="F202">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<mandatory_feature name="F203">2
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<optional_feature name="F204">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<choose_1>
+							<mandatory_feature name="F205">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F206">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F207">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F208">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F209">
+							<paralel>
+								<optional_feature name="F232">1
+<paralel>
+									<optional_feature name="F417">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<optional_feature name="F418">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<optional_feature name="F419">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<choose_1>
+										<mandatory_feature name="F420">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F421">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F422">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+</paralel>
+								</optional_feature>
+								<mandatory_feature name="F233">2
+<paralel>
+									<mandatory_feature name="F388">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F389">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F390">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F391">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<optional_feature name="F392">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<choose_1>
+										<mandatory_feature name="F393">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F394">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+									<choose_1>
+										<mandatory_feature name="F395">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F396">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F397">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+									<choose_1>
+										<mandatory_feature name="F398">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F399">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+</paralel>
+								</mandatory_feature>
+								<mandatory_feature name="F234">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<choose_1>
+									<mandatory_feature name="F235">
+									<paralel>
+										<mandatory_feature name="F337">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F338">2
+<paralel>
+											<mandatory_feature name="F346">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<optional_feature name="F347">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<optional_feature name="F348">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<choose_1>
+												<mandatory_feature name="F349">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F350">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+											<choose_1>
+												<mandatory_feature name="F351">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F352">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F353">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F354">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+											<choose_1>
+												<mandatory_feature name="F355">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F356">
+												<paralel>
+													<mandatory_feature name="F357">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F358">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<optional_feature name="F359">1
+													<checkmark></checkmark>
+													</optional_feature>
+													<mandatory_feature name="F360">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<optional_feature name="F361">1
+													<checkmark></checkmark>
+													</optional_feature>
+													<mandatory_feature name="F362">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<choose_1>
+														<mandatory_feature name="F363">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F364">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F365">
+														<checkmark></checkmark>
+														</mandatory_feature>
+													</choose_1>
+												</paralel>
+												</mandatory_feature>
+											</choose_1>
+</paralel>
+										</mandatory_feature>
+										<choose_1>
+											<mandatory_feature name="F339">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F340">
+											<checkmark></checkmark>
+											</mandatory_feature>
+										</choose_1>
+									</paralel>
+									</mandatory_feature>
+									<mandatory_feature name="F236">
+									<paralel>
+										<optional_feature name="F290">1
+<paralel>
+											<optional_feature name="F326">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<mandatory_feature name="F327">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F328">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F329">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F330">2
+<paralel>
+												<mandatory_feature name="F546">2
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<optional_feature name="F547">1
+												<checkmark></checkmark>
+												</optional_feature>
+												<mandatory_feature name="F548">2
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F549">2
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<choose_1>
+													<mandatory_feature name="F550">
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F551">
+													<checkmark></checkmark>
+													</mandatory_feature>
+												</choose_1>
+												<choose_1>
+													<mandatory_feature name="F552">
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F553">
+													<checkmark></checkmark>
+													</mandatory_feature>
+												</choose_1>
+</paralel>
+											</mandatory_feature>
+											<choose_1>
+												<mandatory_feature name="F331">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F332">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+											<choose_1>
+												<mandatory_feature name="F333">
+												<paralel>
+													<optional_feature name="F535">1
+													<checkmark></checkmark>
+													</optional_feature>
+													<mandatory_feature name="F536">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+												</paralel>
+												</mandatory_feature>
+												<mandatory_feature name="F334">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+											<choose_1>
+												<mandatory_feature name="F335">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F336">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+</paralel>
+										</optional_feature>
+										<choose_1>
+											<mandatory_feature name="F291">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F292">
+											<paralel>
+												<optional_feature name="F317">1
+												<checkmark></checkmark>
+												</optional_feature>
+												<mandatory_feature name="F318">2
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<optional_feature name="F319">1
+												<checkmark></checkmark>
+												</optional_feature>
+												<optional_feature name="F320">1
+												<checkmark></checkmark>
+												</optional_feature>
+												<choose_1>
+													<mandatory_feature name="F321">
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F322">
+													<paralel>
+														<choose_1>
+															<mandatory_feature name="F515">
+															<checkmark></checkmark>
+															</mandatory_feature>
+															<mandatory_feature name="F516">
+															<checkmark></checkmark>
+															</mandatory_feature>
+														</choose_1>
+													</paralel>
+													</mandatory_feature>
+													<mandatory_feature name="F323">
+													<checkmark></checkmark>
+													</mandatory_feature>
+												</choose_1>
+												<choose_1>
+													<mandatory_feature name="F324">
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F325">
+													<checkmark></checkmark>
+													</mandatory_feature>
+												</choose_1>
+											</paralel>
+											</mandatory_feature>
+										</choose_1>
+									</paralel>
+									</mandatory_feature>
+									<mandatory_feature name="F237">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+								<choose_1>
+									<mandatory_feature name="F238">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F239">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F210">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F211">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F212">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+</paralel>
+					</mandatory_feature>
+					<choose_1>
+						<mandatory_feature name="F45">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F46">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F47">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F48">
+						<checkmark></checkmark>
+						</mandatory_feature>
+					</choose_1>
+					<choose_1>
+						<mandatory_feature name="F49">
+						<paralel>
+							<optional_feature name="F65">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F66">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F67">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F68">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<choose_1>
+								<mandatory_feature name="F69">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F70">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F71">
+								<paralel>
+									<mandatory_feature name="F83">2
+<paralel>
+										<optional_feature name="F309">1
+										<checkmark></checkmark>
+										</optional_feature>
+										<mandatory_feature name="F310">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F311">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F312">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<choose_1>
+											<mandatory_feature name="F313">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F314">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F315">
+											<checkmark></checkmark>
+											</mandatory_feature>
+										</choose_1>
+</paralel>
+									</mandatory_feature>
+									<optional_feature name="F84">1
+<paralel>
+										<mandatory_feature name="F264">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+</paralel>
+									</optional_feature>
+									<mandatory_feature name="F85">2
+<paralel>
+										<optional_feature name="F163">1
+										<checkmark></checkmark>
+										</optional_feature>
+										<mandatory_feature name="F164">2
+<paralel>
+											<optional_feature name="F341">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<mandatory_feature name="F342">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<choose_1>
+												<mandatory_feature name="F343">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F344">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F345">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+</paralel>
+										</mandatory_feature>
+										<optional_feature name="F165">1
+										<checkmark></checkmark>
+										</optional_feature>
+										<optional_feature name="F166">1
+<paralel>
+											<mandatory_feature name="F231">2
+<paralel>
+												<mandatory_feature name="F367">2
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F368">2
+												<checkmark></checkmark>
+												</mandatory_feature>
+</paralel>
+											</mandatory_feature>
+</paralel>
+										</optional_feature>
+										<mandatory_feature name="F167">2
+<paralel>
+											<mandatory_feature name="F282">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<optional_feature name="F283">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<mandatory_feature name="F284">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F285">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<choose_1>
+												<mandatory_feature name="F286">
+												<paralel>
+													<mandatory_feature name="F575">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F576">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<optional_feature name="F577">1
+													<checkmark></checkmark>
+													</optional_feature>
+													<mandatory_feature name="F578">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<optional_feature name="F579">1
+													<checkmark></checkmark>
+													</optional_feature>
+													<choose_1>
+														<mandatory_feature name="F580">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F581">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F582">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F583">
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<mandatory_feature name="F584">
+														<checkmark></checkmark>
+														</mandatory_feature>
+													</choose_1>
+												</paralel>
+												</mandatory_feature>
+												<mandatory_feature name="F287">
+												<paralel>
+													<optional_feature name="F613">1
+													<checkmark></checkmark>
+													</optional_feature>
+												</paralel>
+												</mandatory_feature>
+												<mandatory_feature name="F288">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F289">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+</paralel>
+										</mandatory_feature>
+										<optional_feature name="F168">1
+										<checkmark></checkmark>
+										</optional_feature>
+										<choose_1>
+											<mandatory_feature name="F169">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F170">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F171">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F172">
+											<paralel>
+												<mandatory_feature name="F382">2
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<optional_feature name="F383">1
+												<checkmark></checkmark>
+												</optional_feature>
+												<optional_feature name="F384">1
+												<checkmark></checkmark>
+												</optional_feature>
+												<choose_1>
+													<mandatory_feature name="F385">
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F386">
+													<paralel>
+														<optional_feature name="F598">1
+														<checkmark></checkmark>
+														</optional_feature>
+														<optional_feature name="F599">1
+														<checkmark></checkmark>
+														</optional_feature>
+														<choose_1>
+															<mandatory_feature name="F600">
+															<paralel>
+																<mandatory_feature name="F612">2
+																<checkmark></checkmark>
+																</mandatory_feature>
+															</paralel>
+															</mandatory_feature>
+															<mandatory_feature name="F601">
+															<checkmark></checkmark>
+															</mandatory_feature>
+															<mandatory_feature name="F602">
+															<checkmark></checkmark>
+															</mandatory_feature>
+														</choose_1>
+													</paralel>
+													</mandatory_feature>
+													<mandatory_feature name="F387">
+													<paralel>
+														<mandatory_feature name="F585">2
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<choose_1>
+															<mandatory_feature name="F586">
+															<checkmark></checkmark>
+															</mandatory_feature>
+															<mandatory_feature name="F587">
+															<checkmark></checkmark>
+															</mandatory_feature>
+														</choose_1>
+													</paralel>
+													</mandatory_feature>
+												</choose_1>
+											</paralel>
+											</mandatory_feature>
+											<mandatory_feature name="F173">
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F174">
+											<checkmark></checkmark>
+											</mandatory_feature>
+										</choose_1>
+</paralel>
+									</mandatory_feature>
+									<optional_feature name="F86">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<choose_1>
+										<mandatory_feature name="F87">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F88">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F89">
+										<paralel>
+											<mandatory_feature name="F226">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F227">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<choose_1>
+												<mandatory_feature name="F228">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F229">
+												<paralel>
+													<mandatory_feature name="F400">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F401">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F402">2
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<choose_1>
+														<mandatory_feature name="F403">
+														<paralel>
+															<optional_feature name="F511">1
+															<checkmark></checkmark>
+															</optional_feature>
+															<optional_feature name="F512">1
+															<checkmark></checkmark>
+															</optional_feature>
+															<choose_1>
+																<mandatory_feature name="F513">
+																<checkmark></checkmark>
+																</mandatory_feature>
+																<mandatory_feature name="F514">
+																<checkmark></checkmark>
+																</mandatory_feature>
+															</choose_1>
+														</paralel>
+														</mandatory_feature>
+														<mandatory_feature name="F404">
+														<checkmark></checkmark>
+														</mandatory_feature>
+													</choose_1>
+												</paralel>
+												</mandatory_feature>
+											</choose_1>
+										</paralel>
+										</mandatory_feature>
+									</choose_1>
+									<choose_1>
+										<mandatory_feature name="F90">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F91">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+									<choose_1>
+										<mandatory_feature name="F92">
+										<paralel>
+											<optional_feature name="F230">1
+											<checkmark></checkmark>
+											</optional_feature>
+										</paralel>
+										</mandatory_feature>
+										<mandatory_feature name="F93">
+										<paralel>
+											<optional_feature name="F110">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<mandatory_feature name="F111">2
+<paralel>
+												<choose_1>
+													<mandatory_feature name="F197">
+													<paralel>
+														<mandatory_feature name="F216">2
+														<checkmark></checkmark>
+														</mandatory_feature>
+														<optional_feature name="F217">1
+														<checkmark></checkmark>
+														</optional_feature>
+														<optional_feature name="F218">1
+														<checkmark></checkmark>
+														</optional_feature>
+														<choose_1>
+															<mandatory_feature name="F219">
+															<checkmark></checkmark>
+															</mandatory_feature>
+															<mandatory_feature name="F220">
+															<checkmark></checkmark>
+															</mandatory_feature>
+														</choose_1>
+														<choose_1>
+															<mandatory_feature name="F221">
+															<checkmark></checkmark>
+															</mandatory_feature>
+															<mandatory_feature name="F222">
+															<checkmark></checkmark>
+															</mandatory_feature>
+															<mandatory_feature name="F223">
+															<checkmark></checkmark>
+															</mandatory_feature>
+															<mandatory_feature name="F224">
+															<checkmark></checkmark>
+															</mandatory_feature>
+														</choose_1>
+													</paralel>
+													</mandatory_feature>
+													<mandatory_feature name="F198">
+													<checkmark></checkmark>
+													</mandatory_feature>
+												</choose_1>
+												<choose_1>
+													<mandatory_feature name="F199">
+													<checkmark></checkmark>
+													</mandatory_feature>
+													<mandatory_feature name="F200">
+													<checkmark></checkmark>
+													</mandatory_feature>
+												</choose_1>
+</paralel>
+											</mandatory_feature>
+											<mandatory_feature name="F112">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<choose_1>
+												<mandatory_feature name="F113">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F114">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+										</paralel>
+										</mandatory_feature>
+										<mandatory_feature name="F94">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+								</paralel>
+								</mandatory_feature>
+								<mandatory_feature name="F72">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F73">
+								<paralel>
+									<optional_feature name="F175">1
+									<checkmark></checkmark>
+									</optional_feature>
+								</paralel>
+								</mandatory_feature>
+							</choose_1>
+							<choose_1>
+								<mandatory_feature name="F74">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F75">
+								<paralel>
+									<mandatory_feature name="F146">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<choose_1>
+										<mandatory_feature name="F147">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F148">
+										<paralel>
+											<optional_feature name="F316">1
+											<checkmark></checkmark>
+											</optional_feature>
+										</paralel>
+										</mandatory_feature>
+									</choose_1>
+								</paralel>
+								</mandatory_feature>
+							</choose_1>
+						</paralel>
+						</mandatory_feature>
+						<mandatory_feature name="F50">
+						<paralel>
+							<mandatory_feature name="F603">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F604">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F605">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F606">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F607">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F608">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<choose_1>
+								<mandatory_feature name="F609">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F610">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F611">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+						</paralel>
+						</mandatory_feature>
+						<mandatory_feature name="F51">
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F52">
+						<checkmark></checkmark>
+						</mandatory_feature>
+					</choose_1>
+				</paralel>
+				</mandatory_feature>
+				<mandatory_feature name="F16">
+				<checkmark></checkmark>
+				</mandatory_feature>
+			</choose_1>
+			<choose_1>
+				<mandatory_feature name="F17">
+				<paralel>
+					<choose_1>
+						<mandatory_feature name="F33">
+						<paralel>
+							<mandatory_feature name="F225">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</paralel>
+						</mandatory_feature>
+						<mandatory_feature name="F34">
+						<paralel>
+							<mandatory_feature name="F372">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F373">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</paralel>
+						</mandatory_feature>
+					</choose_1>
+				</paralel>
+				</mandatory_feature>
+				<mandatory_feature name="F18">
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F19">
+				<checkmark></checkmark>
+				</mandatory_feature>
+			</choose_1>
+</paralel>
+		</optional_feature>
+		<optional_feature name="F4">1
+		<checkmark></checkmark>
+		</optional_feature>
+		<optional_feature name="F5">1
+		<checkmark></checkmark>
+		</optional_feature>
+		<optional_feature name="F6">1
+		<checkmark></checkmark>
+		</optional_feature>
+		<choose_1>
+			<mandatory_feature name="F7">
+			<paralel>
+				<mandatory_feature name="F35">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F36">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<choose_1>
+					<mandatory_feature name="F37">
+					<paralel>
+						<mandatory_feature name="F115">2
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<mandatory_feature name="F116">2
+<paralel>
+							<optional_feature name="F307">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F308">1
+							<checkmark></checkmark>
+							</optional_feature>
+</paralel>
+						</mandatory_feature>
+						<mandatory_feature name="F117">2
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<optional_feature name="F118">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<optional_feature name="F119">1
+<paralel>
+							<mandatory_feature name="F366">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+</paralel>
+						</optional_feature>
+						<optional_feature name="F120">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<mandatory_feature name="F121">2
+<paralel>
+							<optional_feature name="F475">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F476">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F477">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<choose_1>
+								<mandatory_feature name="F478">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F479">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+</paralel>
+						</mandatory_feature>
+						<choose_1>
+							<mandatory_feature name="F122">
+							<paralel>
+								<optional_feature name="F156">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<optional_feature name="F157">1
+<paralel>
+									<mandatory_feature name="F494">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<optional_feature name="F495">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<mandatory_feature name="F496">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<optional_feature name="F497">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<optional_feature name="F498">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<choose_1>
+										<mandatory_feature name="F499">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F500">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F501">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F502">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+									<choose_1>
+										<mandatory_feature name="F503">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F504">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+</paralel>
+								</optional_feature>
+								<optional_feature name="F158">1
+<paralel>
+									<mandatory_feature name="F213">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<choose_1>
+										<mandatory_feature name="F214">
+										<paralel>
+											<choose_1>
+												<mandatory_feature name="F293">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F294">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F295">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+										</paralel>
+										</mandatory_feature>
+										<mandatory_feature name="F215">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+</paralel>
+								</optional_feature>
+								<mandatory_feature name="F159">2
+<paralel>
+									<mandatory_feature name="F466">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<optional_feature name="F467">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<optional_feature name="F468">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<mandatory_feature name="F469">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F470">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F471">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<choose_1>
+										<mandatory_feature name="F472">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F473">
+										<paralel>
+											<mandatory_feature name="F588">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F589">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<mandatory_feature name="F590">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<optional_feature name="F591">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<mandatory_feature name="F592">2
+											<checkmark></checkmark>
+											</mandatory_feature>
+											<optional_feature name="F593">1
+											<checkmark></checkmark>
+											</optional_feature>
+											<choose_1>
+												<mandatory_feature name="F594">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F595">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+											<choose_1>
+												<mandatory_feature name="F596">
+												<checkmark></checkmark>
+												</mandatory_feature>
+												<mandatory_feature name="F597">
+												<checkmark></checkmark>
+												</mandatory_feature>
+											</choose_1>
+										</paralel>
+										</mandatory_feature>
+										<mandatory_feature name="F474">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+</paralel>
+								</mandatory_feature>
+								<mandatory_feature name="F160">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<choose_1>
+									<mandatory_feature name="F161">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F162">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+							<mandatory_feature name="F123">
+							<paralel>
+								<optional_feature name="F181">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<mandatory_feature name="F182">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F183">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<choose_1>
+									<mandatory_feature name="F184">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F185">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+							<mandatory_feature name="F124">
+							<paralel>
+								<mandatory_feature name="F463">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<optional_feature name="F464">1
+<paralel>
+									<mandatory_feature name="F567">2
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<optional_feature name="F568">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<choose_1>
+										<mandatory_feature name="F569">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F570">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F571">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F572">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+									<choose_1>
+										<mandatory_feature name="F573">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F574">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+</paralel>
+								</optional_feature>
+							</paralel>
+							</mandatory_feature>
+						</choose_1>
+					</paralel>
+					</mandatory_feature>
+					<mandatory_feature name="F38">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+				<choose_1>
+					<mandatory_feature name="F39">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F40">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+			</paralel>
+			</mandatory_feature>
+			<mandatory_feature name="F8">
+			<paralel>
+				<choose_1>
+					<mandatory_feature name="F30">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F31">
+					<paralel>
+						<optional_feature name="F432">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<mandatory_feature name="F433">2
+<paralel>
+							<optional_feature name="F554">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F555">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F556">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F557">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<choose_1>
+								<mandatory_feature name="F558">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F559">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F560">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F561">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F562">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+</paralel>
+						</mandatory_feature>
+						<mandatory_feature name="F434">2
+						<checkmark></checkmark>
+						</mandatory_feature>
+						<optional_feature name="F435">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<optional_feature name="F436">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<choose_1>
+							<mandatory_feature name="F437">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F438">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F439">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F440">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F441">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F442">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F443">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+					</paralel>
+					</mandatory_feature>
+					<mandatory_feature name="F32">
+					<paralel>
+						<optional_feature name="F248">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<choose_1>
+							<mandatory_feature name="F249">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F250">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F251">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F252">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+					</paralel>
+					</mandatory_feature>
+				</choose_1>
+			</paralel>
+			</mandatory_feature>
+			<mandatory_feature name="F9">
+			<paralel>
+				<optional_feature name="F53">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<optional_feature name="F54">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<optional_feature name="F55">1
+				<checkmark></checkmark>
+				</optional_feature>
+				<mandatory_feature name="F56">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F57">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<mandatory_feature name="F58">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<choose_1>
+					<mandatory_feature name="F59">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F60">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+				<choose_1>
+					<mandatory_feature name="F61">
+					<paralel>
+						<optional_feature name="F138">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<optional_feature name="F139">1
+						<checkmark></checkmark>
+						</optional_feature>
+						<mandatory_feature name="F140">2
+<paralel>
+							<mandatory_feature name="F374">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<optional_feature name="F375">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<optional_feature name="F376">1
+							<checkmark></checkmark>
+							</optional_feature>
+							<mandatory_feature name="F377">2
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<choose_1>
+								<mandatory_feature name="F378">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F379">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+							<choose_1>
+								<mandatory_feature name="F380">
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<mandatory_feature name="F381">
+								<checkmark></checkmark>
+								</mandatory_feature>
+							</choose_1>
+</paralel>
+						</mandatory_feature>
+						<choose_1>
+							<mandatory_feature name="F141">
+							<checkmark></checkmark>
+							</mandatory_feature>
+							<mandatory_feature name="F142">
+							<checkmark></checkmark>
+							</mandatory_feature>
+						</choose_1>
+						<choose_1>
+							<mandatory_feature name="F143">
+							<paralel>
+								<mandatory_feature name="F240">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<optional_feature name="F241">1
+<paralel>
+									<optional_feature name="F505">1
+									<checkmark></checkmark>
+									</optional_feature>
+									<choose_1>
+										<mandatory_feature name="F506">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F507">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F508">
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F509">
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</choose_1>
+</paralel>
+								</optional_feature>
+								<mandatory_feature name="F242">2
+<paralel>
+									<optional_feature name="F510">1
+									<checkmark></checkmark>
+									</optional_feature>
+</paralel>
+								</mandatory_feature>
+								<mandatory_feature name="F243">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<optional_feature name="F244">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<choose_1>
+									<mandatory_feature name="F245">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F246">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F247">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+							<mandatory_feature name="F144">
+							<paralel>
+								<optional_feature name="F448">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<optional_feature name="F449">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<choose_1>
+									<mandatory_feature name="F450">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F451">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F452">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F453">
+									<paralel>
+										<mandatory_feature name="F529">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F530">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+										<mandatory_feature name="F531">2
+										<checkmark></checkmark>
+										</mandatory_feature>
+									</paralel>
+									</mandatory_feature>
+								</choose_1>
+								<choose_1>
+									<mandatory_feature name="F454">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F455">
+									<paralel>
+										<optional_feature name="F480">1
+										<checkmark></checkmark>
+										</optional_feature>
+									</paralel>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+							<mandatory_feature name="F145">
+							<paralel>
+								<optional_feature name="F300">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<optional_feature name="F301">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<mandatory_feature name="F302">2
+								<checkmark></checkmark>
+								</mandatory_feature>
+								<optional_feature name="F303">1
+								<checkmark></checkmark>
+								</optional_feature>
+								<choose_1>
+									<mandatory_feature name="F304">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F305">
+									<checkmark></checkmark>
+									</mandatory_feature>
+									<mandatory_feature name="F306">
+									<checkmark></checkmark>
+									</mandatory_feature>
+								</choose_1>
+							</paralel>
+							</mandatory_feature>
+						</choose_1>
+					</paralel>
+					</mandatory_feature>
+					<mandatory_feature name="F62">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F63">
+					<checkmark></checkmark>
+					</mandatory_feature>
+					<mandatory_feature name="F64">
+					<checkmark></checkmark>
+					</mandatory_feature>
+				</choose_1>
+			</paralel>
+			</mandatory_feature>
+			<mandatory_feature name="F10">
+			<paralel>
+				<mandatory_feature name="F136">2
+				<checkmark></checkmark>
+				</mandatory_feature>
+				<optional_feature name="F137">1
+				<checkmark></checkmark>
+				</optional_feature>
+			</paralel>
+			</mandatory_feature>
+		</choose_1>
+</paralel>
+	</mandatory_feature>
+	</paralel>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</excludes>
+
+	</requires>
+
+	</excludes>
+
+	</requires>
+
+	</requires>
+
+	</requires>
+
+	</excludes>
+
+ </xml>
